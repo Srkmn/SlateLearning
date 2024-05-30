@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"DialogueBuilder": "UnrealEditor-DialogueBuilder.dll",
+		"DialogueBuilderEditor": "UnrealEditor-DialogueBuilderEditor.dll"
+	}
+}
